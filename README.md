@@ -6,11 +6,11 @@ Tento repozitář obsahuje vypracované otázky ke zkouškám na FM TUL, obor In
 
 | Předmět | Soubor |
 |---------|--------|
+| **Úvod do lineární algebry (ULA)** | [ULA_vypracovane_okruhy.pdf](ULA_vypracovane_okruhy.pdf) |
 | **Databázové systémy (DBS)** | [DBS_vypracovane_okruhy_v1.4.pdf](DBS_vypracovane_okruhy_v1.4.pdf) |
 | **Operační systémy (OPS)** | [OPS_vypracovane_okruhy.pdf](OPS_vypracovane_okruhy.pdf) |
-| **Programování 1 (PG1)** | [PG1_vypracovane_okruhy.pdf](PG1_vypracovane_okruhy.pdf) |
-| **Uživatelská rozhraní (UI)** | [UI_vypracovane_okruhy.pdf](UI_vypracovane_okruhy.pdf) |
-| **Logické a aritmetické obvody (ULA)** | [ULA_vypracovane_okruhy.pdf](ULA_vypracovane_okruhy.pdf) |
+| **Počítačová grafika 1 (PG1)** | [PG1_vypracovane_okruhy.pdf](PG1_vypracovane_okruhy.pdf) |
+| **Unix a internet (UI)** | [UI_vypracovane_okruhy.pdf](UI_vypracovane_okruhy.pdf) |
 | **Webové aplikace (WEA)** | [WEA_vypracovane_okruhy.pdf](WEA_vypracovane_okruhy.pdf) |
 
 ## 📥 Jak přispět?
