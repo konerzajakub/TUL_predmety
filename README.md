@@ -1,6 +1,6 @@
 # 📚 Vypracované okruhy na zkoušky
 
-Tento repozitář obsahuje vypracované otázky ke zkouškám na FM TUL, obor Informační technologie. Pokud ti pomohou, dej ⭐ a příspěvky se velice cení!
+Tento repozitář obsahuje vypracované otázky ke zkouškám na FM TUL pro obor Informační technologie. Pokud ti pomůžou, dej ⭐ a velmi se cení pokud se rozhodneš jakkoliv přispět :)
 
 ## 📂 Seznam dostupných předmětů
 
@@ -18,7 +18,7 @@ Tento repozitář obsahuje vypracované otázky ke zkouškám na FM TUL, obor In
 2. Přidej nebo uprav soubory.
 3. Pošli pull request.
 
-## ✅ Poznámky
+## 👀 PS
 - Pokud najdeš chybu nebo nejasnost, neváhej vytvořit issue.
 - Většinu jsem dělal za pochodu během učení, mohou se tam objevit chyby.
 
